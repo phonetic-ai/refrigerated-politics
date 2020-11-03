@@ -13,7 +13,7 @@ It has an accuracy of 61.17647290229797%. Mere mortals were only capable of scor
 ## So who are you voting for?
 I could tell you, but instead I'll let the AI do the talking.
 
-![my fridge](https://i.imgur.com/aib8RMj.jpeg)
+![my fridge](https://github.com/phonetic-ai/refrigerated-politics/blob/main/my_fridge.jpg?raw=true)
 ![my vote](https://github.com/phonetic-ai/refrigerated-politics/blob/main/screenshot_vote_large.png?raw=true)
 
 ## References
