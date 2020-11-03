@@ -1,5 +1,5 @@
 # Refrigerated Politics
-#### The internet's premier AI for answering the question: Is it a Trump fridge or a Biden fridge?
+### The internet's premier AI for answering the question: Is it a Trump fridge or a Biden fridge?
 
 <img src="https://github.com/phonetic-ai/refrigerated-politics/blob/main/my_fridge.jpg?raw=true" alt="my fridge" width="120" /><img src="https://publicdomainvectors.org/photos/aiga_right_arrow.png" alt="arrow" width="100" /><img src="https://techcrunch.com/wp-content/uploads/2014/12/matrix.jpg" alt="matrix" width="200"/><img src="https://publicdomainvectors.org/photos/aiga_right_arrow.png" alt="arrow" width="100" /><img src="https://github.com/phonetic-ai/refrigerated-politics/blob/main/screenshot_vote_small.png" alt="my vote" width="300"/>
 
