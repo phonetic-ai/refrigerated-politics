@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  main:
+    build: .
+    # context: .
+    # dockerfile: Dockerfile
+    runtime: nvidia
+    ports:
+      - '8888:8888'
+    volumes:
+      - '.:/workspace'
+      - '/media/mike/Data/fridge_data:/fridge_data'
