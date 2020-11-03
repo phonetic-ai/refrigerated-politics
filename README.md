@@ -16,6 +16,10 @@ I could tell you, but instead I'll let the AI do the talking.
 ![my fridge](https://github.com/phonetic-ai/refrigerated-politics/blob/main/my_fridge.jpg?raw=true)
 ![my vote](https://github.com/phonetic-ai/refrigerated-politics/blob/main/screenshot_vote_large.png?raw=true)
 
-## References
+## Credit to
+[New York Times](https://www.nytimes.com/interactive/2020/10/27/upshot/biden-trump-poll-quiz.html)
+
+[LUCID](https://luc.id)
+
 O. Tange (2011): GNU Parallel - The Command-Line Power Tool,
   ;login: The USENIX Magazine, February 2011:42-47.
