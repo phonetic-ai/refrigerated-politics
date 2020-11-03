@@ -1,10 +1,7 @@
 # Refrigerated Politics
-AI for answering the question: Is it a Trump fridge or a Biden fridge?
+#### The internet's premier AI for answering the question: Is it a Trump fridge or a Biden fridge?
 
 <img src="https://github.com/phonetic-ai/refrigerated-politics/blob/main/my_fridge.jpg?raw=true" alt="my fridge" width="120" /><img src="https://publicdomainvectors.org/photos/aiga_right_arrow.png" alt="arrow" width="100" /><img src="https://techcrunch.com/wp-content/uploads/2014/12/matrix.jpg" alt="matrix" width="200"/><img src="https://publicdomainvectors.org/photos/aiga_right_arrow.png" alt="arrow" width="100" /><img src="https://github.com/phonetic-ai/refrigerated-politics/blob/main/screenshot_vote_small.png" alt="my vote" width="300"/>
-
-## What is this?
-Refigerated Politics™ is the internet's premier source for AI-generated cold political takes.
 
 ## How Does It Work?
 We combed through [the NYT's database](https://www.nytimes.com/interactive/2020/10/27/upshot/biden-trump-poll-quiz.html) of 429 fridge images (frimages) and lovingly forced our graphics card to do a neural architecture search until it found just the right one.
