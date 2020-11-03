@@ -13,9 +13,8 @@ It has an accuracy of 61.17647290229797%. Mere mortals were only capable of scor
 ## So who are you voting for?
 I could tell you, but instead I'll let the AI do the talking.
 
-![my fridge](https://i.imgur.com/aib8RMjs.jpeg)
-
-AI says: **Biden**
+![my fridge](https://i.imgur.com/aib8RMj.jpeg)
+![my vote](https://github.com/phonetic-ai/refrigerated-politics/blob/main/screenshot_vote_large.png?raw=true)
 
 ## References
 O. Tange (2011): GNU Parallel - The Command-Line Power Tool,
